@@ -23,10 +23,10 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
   - Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
 
 - DELETE /eliminar
-  - Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar desde la pagina".
+  - Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar" desde la pagina.
 
 - GET /videojuegos/crear
-  - Funcionalidad para crear un nuevo videojuego desde la pagina (clickeando el boton superior "crear nuevo videojuego)
+  - Funcionalidad para crear un nuevo videojuego desde la pagina (clickeando el boton superior "crear nuevo videojuego")
 
 - GET /editar
   - Funcionalidad para editar el videojuego seleccionado desde la pagina (clickeando el boton "editar")
