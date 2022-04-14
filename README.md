@@ -1,7 +1,7 @@
 # Aplicacion-Videojuegos
 Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patron de arquitectura de software: Spring MVC.
 
-##Tecnologias utilizadas: 
+##  Tecnologias utilizadas: 
 - JAVA
 - Spring Boot
 - Thymeleaf
@@ -11,7 +11,7 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
 - Bootstrap
 - MySQL
 
-##Explorar Aplicacion:
+##  Explorar Aplicacion:
 
 - GET /
   - Consigue listar todos los videojuegos creados en la Base de Datos.
