@@ -1,7 +1,7 @@
-# Aplicacion-Videojuegos
-Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patron de arquitectura de software: Spring MVC.
+# AplicaciÓn de Videojuegos
+Aplicación de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patrón de arquitectura de software: Spring MVC.
 
-##  Tecnologias utilizadas: 
+##  TecnologÍas utilizadas: 
 - JAVA
 - Spring Boot
 - Thymeleaf
@@ -11,7 +11,7 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
 - Bootstrap
 - MySQL
 
-##  Explorar Aplicacion:
+##  Explorar Aplicación:
 
 - GET /
   - Consigue listar todos los videojuegos creados en la Base de Datos.
@@ -20,16 +20,16 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
   - Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
 
 - GET /buscar
-  - Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
+  - Funcionalidad para el buscador de la página, inserte nombre de videojuego para su búsqueda.
 
 - DELETE /eliminar
-  - Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar" desde la pagina.
+  - Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar" desde la página.
 
 - GET /videojuegos/crear
-  - Funcionalidad para crear un nuevo videojuego desde la pagina (clickeando el boton superior "crear nuevo videojuego")
+  - Funcionalidad para crear un nuevo videojuego desde la página (clickeando el boton superior "crear nuevo videojuego")
 
 - GET /editar
-  - Funcionalidad para editar el videojuego seleccionado desde la pagina (clickeando el boton "editar")
+  - Funcionalidad para editar el videojuego seleccionado desde la página (clickeando el boton "editar")
 
 - POST /videojuegos/guardar
-  - Funcionalidad para guardar el videojuego (creado, o editado) desde la pagina (clickeando el boton "guardar")
+  - Funcionalidad para guardar el videojuego (creado, o editado) desde la página (clickeando el boton "guardar")
