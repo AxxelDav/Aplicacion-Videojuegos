@@ -14,17 +14,16 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
 #Explorar Aplicacion:
 
 - GET /
-
-Consigue listar todos los videojuegos creados en la Base de Datos.
+  - Consigue listar todos los videojuegos creados en la Base de Datos.
 
 - GET /videojuegosPorDistribuidor
-  -Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
+  - Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
 
 - GET /buscar
-  .Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
+Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
 
 - DELETE /eliminar
-    .Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar desde la pagina".
+Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar desde la pagina".
 
 - GET /videojuegos/crear
 Funcionalidad para crear un nuevo videojuego desde la pagina (clickeando el boton superior "crear nuevo videojuego)
