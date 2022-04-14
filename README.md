@@ -1,5 +1,5 @@
 # AplicaciÓn de Videojuegos
-Aplicación de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patrón de arquitectura de software: Spring MVC.
+Aplicación de videojuegos, en Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patrón de arquitectura de software: Spring MVC.
 
 ##  TecnologÍas utilizadas: 
 - JAVA
