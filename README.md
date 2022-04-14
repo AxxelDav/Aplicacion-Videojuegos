@@ -18,7 +18,7 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
 Consigue listar todos los videojuegos creados en la Base de Datos.
 
 - GET /videojuegosPorDistribuidor
-.Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
+  -Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
 
 - GET /buscar
 Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
