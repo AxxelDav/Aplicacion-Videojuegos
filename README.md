@@ -12,6 +12,7 @@ Aplicacion de VIDEOJUEGOS, en Java web realizada en un curso de Spring boot. El 
 #Explorar Aplicacion:
 
 - GET /
+
 Consigue listar todos los videojuegos creados en la Base de Datos.
 
 - GET /videojuegosPorDistribuidor
