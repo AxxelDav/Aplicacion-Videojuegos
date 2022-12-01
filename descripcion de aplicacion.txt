@@ -1,0 +1,30 @@
+Aplicacion de VIDEOJUEGOS, Java web realizada en un curso de Spring boot. El mismo posee las funcionalidades CRUD en JAVA, con el patron de arquitectura de software: Spring MVC.
+Tecnologias utilizadas: 
+- JAVA
+- Spring Boot
+- Thymeleaf
+- Spring Data
+- Bootstrap
+- MySQL
+
+Explorar Aplicacion:
+- GET /
+Consigue listar todos los videojuegos creados en la Base de Datos.
+
+- GET /videojuegosPorDistribuidor
+Consigue obtener los videojuegos pertenecientes al distribuidor seleccionado.
+
+- GET /buscar
+Funcionalidad para el buscador de la pagina, inserte nombre de videojuego para su busqueda.
+
+- DELETE /eliminar
+Elimina el videojuego por su idVideojuego. Haciendo click en el boton "eliminar desde la pagina".
+
+- GET /videojuegos/crear
+Funcionalidad para crear un nuevo videojuego desde la pagina (clickeando el boton superior "crear nuevo videojuego)
+
+- GET /editar
+Funcionalidad para editar el videojuego seleccionado desde la pagina (clickeando el boton "editar")
+
+- POST /videojuegos/guardar
+Funcionalidad para guardar el videojuego (creado, o editado) desde la pagina (clickeando el boton "guardar")
